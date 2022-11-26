@@ -1,0 +1,9 @@
+<suite name="Selenium test suite" parallel="methods" thread-count="3">
+    <test name="Regression">
+        <classes>
+            <class name="tests.CheckBoxTests"/>
+            <class name="tests.DropdownTests"/>
+            <class name="tests.LoginTests"/>
+        </classes>
+    </test>
+</suite>
