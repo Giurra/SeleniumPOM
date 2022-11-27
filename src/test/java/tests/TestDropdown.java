@@ -6,7 +6,7 @@ import pages.DropdownPage;
 
 import static constansts.StringConstants.DROPDOWN_TITLE;
 
-public class DropdownTests extends TestBase {
+public class TestDropdown extends TestBase {
 
     @Test
     public void dropDown() {

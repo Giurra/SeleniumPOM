@@ -7,7 +7,7 @@ import pages.CheckboxesPage;
 import static constansts.StringConstants.CHECKBOX_TITLE;
 import static constansts.StringConstants.CHECKBOX_VALUES;
 
-public class CheckBoxTests extends TestBase {
+public class TestCheckBox extends TestBase {
 
     @Test
     public void checkBoxes() {

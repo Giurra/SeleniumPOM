@@ -7,7 +7,7 @@ import pages.BasicAuthPage;
 import static constansts.StringConstants.BASIC_AUTH_TEXT;
 import static constansts.StringConstants.BASIC_AUTH_TITLE;
 
-public class LoginTests extends TestBase {
+public class TestLogin extends TestBase {
 
     @Test
     public void basicAuth() {
